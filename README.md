@@ -732,6 +732,16 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ## DevOps Conference
 
+* [DevOpsCon](https://devopscon.io/)
+* [AWS re:Invent](https://reinvent.awsevents.com/)
+* [DevSecOps](https://www.devseccon.com/)
+* [ADDO](https://www.alldaydevops.com/)
+* [DevOpsConnect](https://www.devopsconnect.com/)
+* [@Scale](https://atscaleconference.com/)
+* [devopsdays](https://devopsdays.org/)
+* [DevOps Enterprise Summit](https://events.itrevolution.com/)
+
+
 ## DevOps Roadmap
 
 
