@@ -1,6 +1,10 @@
 # DevOps Collection
 > Welcome To The World of DevOps Engineering Collection
 
+### What is DevOps?
+> By definition, DevOps outlines a software development process and an organizational culture shift that speeds the delivery of higher quality software by automating and integrating the efforts of development and IT operations teams – two groups that traditionally practiced separately from each other, or in silos.
+
+> In practice, the best DevOps processes and cultures extend beyond development and operations to incorporate inputs from all application stakeholders - **including platform and infrastructure engineering, security, compliance, governance, risk management, line-of-business, end-users and customers - into the software development lifecycle.** 
 
 ## Table of Contents
 * [Awesome DevOps and Sysadmin](#awesome-devops)
