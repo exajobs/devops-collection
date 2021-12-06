@@ -3,9 +3,12 @@
 > Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 ### What is DevOps?
-* By definition, [DevOps](https://www.ibm.com/cloud/learn/devops-a-complete-guide) outlines a software development process and an organizational culture shift that speeds the delivery of higher quality software by automating and integrating the efforts of development and IT operations teams – two groups that traditionally practiced separately from each other, or in silos.
+Devops is the combination of:
+* Cultural philosophy shift
+* Practice and patterns
+* Tools and automation
 
-* In practice, the best DevOps processes and cultures extend beyond development and operations to incorporate inputs from all application stakeholders - **including platform and infrastructure engineering, security, compliance, governance, risk management, line-of-business, end-users and customers - into the software development lifecycle.** 
+* In practice, the best [DevOps](https://www.ibm.com/cloud/learn/devops-a-complete-guide) processes and cultures extend beyond development and operations to incorporate inputs from all application stakeholders - **including platform and infrastructure engineering, security, compliance, governance, risk management, line-of-business, end-users and customers - into the software development lifecycle.** 
 
 ## Table of Contents
 * [Awesome DevOps and Sysadmin](#awesome-devops)
