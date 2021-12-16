@@ -8,6 +8,8 @@ Devops is the combination of:
 * Practice and patterns
 * Tools and automation
 
+![devops](https://github.com/exajobs/devops-collection/blob/main/img/devops.png)
+
 *In practice, the best [DevOps](https://www.ibm.com/cloud/learn/devops-a-complete-guide) processes and cultures extend beyond development and operations to incorporate inputs from all application stakeholders - **including platform and infrastructure engineering, security, compliance, governance, risk management, line-of-business, end-users and customers - into the software development lifecycle.***
 
 ## Table of Contents
