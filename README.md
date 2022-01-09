@@ -368,6 +368,8 @@ Devops is the combination of:
 * [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
 * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
 
+[Back to top](#devops-engineering-collection)
+
 *XMPP web clients.*
 
 * [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
@@ -416,6 +418,8 @@ Devops is the combination of:
 
 * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 
+[Back to top](#devops-engineering-collection)
+
 ## Metric & Metric Collection
 
 *Metric gathering and display software.*
@@ -436,6 +440,8 @@ Devops is the combination of:
 * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
+
+[Back to top](#devops-engineering-collection)
 
 ## Network Configuration Management
 
