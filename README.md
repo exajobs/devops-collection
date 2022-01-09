@@ -65,6 +65,7 @@ Devops is the combination of:
   * [Repositories](#repositories)
   * [Websites](#websites)
 
+[Back to top](#devops-engineering-collection)
 
 ## Backups
 
@@ -297,6 +298,10 @@ Devops is the combination of:
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
 * [StackShare](https://stackshare.io/) - Publicly available information about a Company's Stack.
+
+
+[Back to top](#devops-engineering-collection)
+
 
 ## LDAP
 
@@ -715,6 +720,8 @@ Various resources, such as books, websites and articles, for improving your skil
 * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
 * [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
 * [UNIX and Linux System Administration Handbook](http://www.admin.com/) - Approaches system administration from a practical perspective.
+
+[Back to top](#devops-engineering-collection)
 
 ## Newsletters
 
