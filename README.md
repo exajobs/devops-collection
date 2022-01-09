@@ -13,7 +13,7 @@ Devops is the combination of:
 *In practice, the best [DevOps](https://www.ibm.com/cloud/learn/devops-a-complete-guide) processes and cultures extend beyond development and operations to incorporate inputs from all application stakeholders - **including platform and infrastructure engineering, security, compliance, governance, risk management, line-of-business, end-users and customers - into the software development lifecycle.***
 
 ## Table of Contents
-* [Awesome DevOps and Sysadmin](#awesome-devops)
+* [DevOps and Sysadmin Collection](#devops-engineering-collection)
   * [Backups](#backups)
   * [Build Automation](#build-automation)
   * [ChatOps](#chatops)
