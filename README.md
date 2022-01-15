@@ -2,7 +2,7 @@
 > Welcome To The World of DevOps Engineering Collection ®. A collection of awesome software, libraries, documents, books, resources and cool stuff about DevOps.
 > Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
-### What is DevOps?
+### `What is DevOps?`
 Devops is the combination of:
 * Cultural philosophy shift
 * Practice and patterns
@@ -12,7 +12,7 @@ Devops is the combination of:
 
 *In practice, the best [DevOps](https://www.ibm.com/cloud/learn/devops-a-complete-guide) processes and cultures extend beyond development and operations to incorporate inputs from all application stakeholders - **including platform and infrastructure engineering, security, compliance, governance, risk management, line-of-business, end-users and customers - into the software development lifecycle.***
 
-## Table of Contents
+## `Table of Contents`
 * [DevOps and Sysadmin Collection](#devops-engineering-collection)
   * [Backups](#backups)
   * [Build Automation](#build-automation)
@@ -65,9 +65,10 @@ Devops is the combination of:
   * [Repositories](#repositories)
   * [Websites](#websites)
 
-[Back to top](#devops-engineering-collection)
 
-## Backups
+**[`^        back to top        ^`](#)**
+
+## `Backups`
 
 *Backup software.*
 
@@ -94,7 +95,7 @@ Devops is the combination of:
 * [Backup](https://github.com/meskyanichi/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 
-## Build Automation
+## `Build Automation`
 
 *Build automation tools.*
 
@@ -103,7 +104,7 @@ Devops is the combination of:
 * [GNU Make](http://www.gnu.org/software/make/) - The most popular automation build tool for many purposes.
 * [Gradle](http://gradle.org/) - Another open source build automation system.
 
-## ChatOps
+## `ChatOps`
 
 *Conversation-driven development & management.*
 
