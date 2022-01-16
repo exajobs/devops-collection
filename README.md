@@ -115,7 +115,7 @@ Devops is the combination of:
 * [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
 * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
 
-## Cloning
+## `Cloning`
 
 *Cloning software.*
 
@@ -123,7 +123,7 @@ Devops is the combination of:
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
 * [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
 
-## Cloud Computing
+## `Cloud Computing`
 
 * [AppScale](http:/github.com/AppScale/appscale) - Open source cloud software with Google App Engine compatibility.
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
@@ -138,7 +138,7 @@ Devops is the combination of:
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
 * [Tsuru](http://www.tsuru.io/) - Tsuru is an extensible and open source Platform as a Service software.
 
-## Cloud Orchestration
+## `Cloud Orchestration`
 
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
