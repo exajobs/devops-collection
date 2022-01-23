@@ -421,7 +421,7 @@ Devops is the combination of:
 
 [Back to top](#devops-engineering-collection)
 
-## Metric & Metric Collection
+## `Metric & Metric Collection`
 
 *Metric gathering and display software.*
 
@@ -455,7 +455,7 @@ Devops is the combination of:
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 * [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
 
-## Newsletters
+## `Newsletters`
 
 *Newsletter software.*
 
