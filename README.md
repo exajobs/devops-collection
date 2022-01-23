@@ -754,7 +754,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
 
-## DevOps Conference
+## `DevOps Conference`
 
 * [DevOpsCon](https://devopscon.io/)
 * [AWS re:Invent](https://reinvent.awsevents.com/)
@@ -766,7 +766,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [DevOps Enterprise Summit](https://events.itrevolution.com/)
 [Back to top](#devops-engineering-collection)
 
-## DevOps Roadmap
+## `DevOps Roadmap`
 
 
 Basic understanding and what you should know to become a DevOps Engineer, check the roadmap [here](https://roadmap.sh/devops)
