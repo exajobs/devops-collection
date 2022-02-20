@@ -1,6 +1,6 @@
 # DevOps Engineering Collection
 > Welcome To The World of DevOps Engineering Collection ®. A collection of awesome software, libraries, documents, books, resources and cool stuff about DevOps.
-> Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
+> Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 ### `What is DevOps?`
 Devops is the combination of:
